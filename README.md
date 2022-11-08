@@ -1,5 +1,7 @@
 # 230V line monitoring circuit
 
+![230V line monitoring](https://raw.githubusercontent.com/tspspi/labmonitor230/master/doc/v230monitorpc817.png)
+
 This is a simple circuit that monitors the 230V line
 voltage via an PC817 optocoupler.
 
